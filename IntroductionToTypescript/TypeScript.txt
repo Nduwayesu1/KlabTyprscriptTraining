@@ -1,0 +1,26 @@
+TypeScript
+---------
+Typescript is a Synthatic Superset of javascript which adds Something to it
+it allow developers to specify the datatype to a specified variables.
+
+in javascript the data type of a variable is not specified
+
+
+
+
+Typescript project setting
+-------------------------
+
+-npm install -g typescript
+-tsc -v(checking if typescript has been installed) 
+-node filename.ts (to run the file)
+
+
+  Monday 05/01/01 Report
+  ----------------------
+ 
+- variables
+-data types
+-functions
+-if statements
+-string operations
